@@ -21,6 +21,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 No Installation Required
 
+Check out the deployed sight @
+
+https://tnewnum.github.io/Code-Refactor/
+
+
 ## Usage
 
 The links at the top will redirect you to those sections for easier navigation. 
